@@ -1,6 +1,7 @@
 # TsundokuOS
 An OS written to help me learn programming.
 
+It will be based on Linux, but most utilities will be written by me, from scratch.
 # FAQ
 _Q: Why is it named "TsundokuOS"?_
 
